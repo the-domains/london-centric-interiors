@@ -1,0 +1,14 @@
+layout_spectrum: 0.4070798
+typography_spectrum: 0.1982989
+color:
+  lightness: 0.3322904
+  brandStrength: 0.3811175
+  saturation: 0.4662078
+  rhythmicContrast: 0.1408288
+  brandColors:
+    - '#D9DADC'
+    - '#BEBDB9'
+    - '#8D8C89'
+    - '#1F1E22'
+    - '#47433A'
+name: London Centric Interiors
